@@ -20,6 +20,7 @@ public class ONTimeONSpace {
 
     public static void main(String[] args) {
         ONTimeONSpace m = new ONTimeONSpace();
+        // First is warmup
         m.init();
         m.fill(2000000, "A");
         m.cleanup();
