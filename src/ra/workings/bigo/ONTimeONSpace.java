@@ -5,6 +5,9 @@ import java.util.List;
 
 /**
  * O(N) Time with O(N) Space
+ *
+ * Notes: Initial fill takes a bit more time while the second and third are very close each run although
+ * memory growth is consistent across all three.
  */
 public class ONTimeONSpace {
 

@@ -1,5 +1,5 @@
 # Big O Notation
-Description of the efficiency of an algorithm.
+Description of the efficiency of an algorithm with the rate of increase.
 
 * Big O: Describes an upper bound on the time (but largely used as Big Theta in industry).
 * Big Omega: Describes a lower bound on the time.
